@@ -15,7 +15,9 @@ An example Zellij plugin (good to use to get started): [Rust Plugin Example][exa
 [example]: https://github.com/zellij-org/rust-plugin-example
 
 ## How to run
-Open the `Plugin Manager` (by default: `Ctrl o` + `p`), press `Ctrl a`, paste the following url and press `Enter`: `https://github.com/zellij-org/develop-rust-plugin/releases/latest/download/develop-rust-plugin.wasm`
+Open the `Plugin Manager` (by default: `Ctrl o` + `p`), press `Ctrl a`, paste the following url and press `Enter`: 
+
+https://github.com/zellij-org/develop-rust-plugin/releases/latest/download/develop-rust-plugin.wasm
 
 ## Configuration
 It's possible to change the `reload_shortcut` (by default `Ctrl Shift r`) to any other shortcut by specifying it in the `reload_shortcut` plugin configuration. eg.
