@@ -1,4 +1,5 @@
 ## About
+![img-2024-11-07-172647](https://github.com/user-attachments/assets/d55af6de-f4f7-4f30-9aa0-eb27574b9f0c)
 
 This is helper plugin for developing other Zellij plugins. It's intended to be run in a folder with an existing Zellij plugin, assisting in its development by shortening the feedback loop and mental load involved in compiling and running the plugin.
 
