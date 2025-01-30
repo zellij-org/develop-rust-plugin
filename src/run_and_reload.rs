@@ -56,7 +56,7 @@ impl RunAndReload {
                     let mut plugin_path = cwd.clone();
                     plugin_path.extend(
                         PathBuf::from(format!(
-                            "target/wasm32-wasi/debug/{}.wasm",
+                            "target/wasm32-wasip1/debug/{}.wasm",
                             project_dir_name.to_string()
                         ))
                         .components(),
